@@ -15,7 +15,10 @@
           <div class="size-16">
             <?php if (function_exists("the_custom_logo")){
               the_custom_logo();
-            }?></div>
+            }?>
+        
+          
+          </div>
             <a href="#">خانه</a>
             <a href="#">محصولات</a>
             
